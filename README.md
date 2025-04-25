@@ -1,5 +1,5 @@
 # email-verifier-tool
-<img src="/assets/logo.png" alt="RGF212 Logo" width="200">
+<img src="/assets/logo.png" alt="RGF212 Logo" width="300">
 
 
 
