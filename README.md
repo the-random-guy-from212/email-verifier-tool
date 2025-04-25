@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email [ilyassbasbassi760@gmail.com](mailto:your-email@example.com) or open an issue on the GitHub repository.
+For support, email [theopensource212@gmail.com](mailto:your-email@example.com) or open an issue on the GitHub repository.
 
 ---
 
