@@ -1,8 +1,7 @@
 # email-verifier-tool
-<img src="/assets/logo.png" 
-     alt="RGF212" 
-     width="200"
-     style="image-rendering: -webkit-optimize-contrast;">
+<p align="center">
+  <img src="/assets/logo.png" alt="RGF212 Logo" width="500">
+</p>
 
 
 
