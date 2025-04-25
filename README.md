@@ -1,4 +1,5 @@
 # email-verifier-tool
+![Uploading logo (2).png…]()
 
 
 ## 📋 Features
