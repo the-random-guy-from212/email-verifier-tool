@@ -3,8 +3,6 @@
   <img src="/assets/logo.png" alt="RGF212 Logo" width="500">
 </p>
 
-
-
 ## 📋 Features
 
 - ✅ **Dual Verification Modes**:
