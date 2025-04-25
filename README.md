@@ -1,5 +1,6 @@
 # email-verifier-tool
-![Project Logo](https://i.imgur.com/FN0p9uZ.png)
+![Uploading logo (2).png…]()
+
 
 
 ## 📋 Features
