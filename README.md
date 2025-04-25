@@ -1,6 +1,5 @@
 # email-verifier-tool
-![Uploading logo.png…]()
-
+![Logo](/assets/logo.png)
 
 
 
