@@ -1,8 +1,5 @@
 # email-verifier-tool
-A powerful command-line tool for verifying email addresses with dual operation modes: API integration with VerifyRight or standalone verification.
 
-**Developer**: Ilyass Basbassi  
-**Version**: 2.0.0
 
 ## 📋 Features
 
