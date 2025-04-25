@@ -1,5 +1,5 @@
 # email-verifier-tool
-![Logo](/assets/logo.png)
+![Logo](/assets/logo.png#gh-light-mode-only){: width="200"}
 
 
 
